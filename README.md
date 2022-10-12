@@ -2,11 +2,11 @@
 [![Linkedin: Brandon Titus](https://img.shields.io/badge/-Brandon%20Titus-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bjtitus/)
 [![Stack Overflow: bjtitus](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/72319/bjtitus)](https://stackoverflow.com/users/72319/bjtitus)
 
-I'm a mobile developer at [Automattic](https://automattic.com) living in Denver, CO.
+I'm a mobile developer working on projects at [Automattic](https://automattic.com) and living in Denver, CO.
 
-I enjoy building high quality mobile applications and tinkering with new languages and tools, most recently [Nix](https://nixos.org/), [Svelte](https://svelte.dev/), and [Datasette](https://datasette.io/).
+I enjoy building mobile apps for iOS and tinkering with new languages and tools&mdash;most recently [Nix](https://nixos.org/), [Svelte](https://svelte.dev/), and [Datasette](https://datasette.io/).
 
-In my free time I enjoy hiking and backpacking, skiing (primarily skate and classic backcountry), and [taking](https://www.instagram.com/bjtitus/) [photos](https://glass.photo/bjtitus).
+In my free time I enjoy [hiking and backpacking](https://naturalatlas.com/@bjtitus), skiing (primarily XC skate and classic backcountry), and [taking](https://www.instagram.com/bjtitus/) [photos](https://glass.photo/bjtitus).
 
 ##  🎉 Skills 🎉
 
@@ -25,3 +25,8 @@ Some of my daily drivers & favorites.
 - [RegExRX](https://apps.apple.com/us/app/regexrx/id498370702?mt=12)
 - [Warp](https://www.warp.dev/)
 - [Alfred](https://www.alfredapp.com/)
+
+## 💬 Talks 💬
+
+- 360iDev 2019: [Using LLDB, Instruments, and Xcode to understand a codebase](https://vimeo.com/365600505?embedded=true&source=video_title&owner=18175981)
+- 360iDev 2017: [Creating Adaptable Layouts Using Trait Collections and Container Views](https://vimeopro.com/360conferences/360idev-2017-public-session-recordings/video/232756016)
