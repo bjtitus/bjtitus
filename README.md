@@ -2,12 +2,16 @@
 [![Linkedin: Brandon Titus](https://img.shields.io/badge/-Brandon%20Titus-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bjtitus/)
 [![Stack Overflow: bjtitus](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/72319/bjtitus)](https://stackoverflow.com/users/72319/bjtitus)
 
-I live in Denver, CO.
+I'm a mobile developer at [Automattic](https://automattic.com) living in Denver, CO.
+
+I enjoy building high quality mobile applications and tinkering with new languages and tools, most recently [Nix](https://nixos.org/), [Svelte](https://svelte.dev/), and [Datasette](https://datasette.io/).
+
+In my free time I enjoy hiking and backpacking, skiing (primarily skate and classic backcountry), and [taking](https://www.instagram.com/bjtitus/) [photos](https://glass.photo/bjtitus).
 
 ##  🎉 Skills 🎉
 
 - **Mobile**: iOS (Swift, Objective-C), SwiftUI
-- **Web**: AngularJS, React
+- **Web**: React, AngularJS
 - **CI/CD**: CircleCI, BuildKite, Github Actions
 - **DevOps**: Nix, Docker
 
