@@ -28,5 +28,5 @@ Some of my daily drivers & favorites.
 
 ## 💬 Talks 💬
 
-- 360iDev 2019: [Using LLDB, Instruments, and Xcode to understand a codebase](https://vimeo.com/365600505?embedded=true&source=video_title&owner=18175981)
+- 360iDev 2019: [Using LLDB, Instruments, and Xcode to understand a codebase](https://vimeo.com/365600505?embedded=true&source=video_title&owner=18175981) - [🗒️ Notes](http://titus.io/360/)
 - 360iDev 2017: [Creating Adaptable Layouts Using Trait Collections and Container Views](https://vimeopro.com/360conferences/360idev-2017-public-session-recordings/video/232756016)
