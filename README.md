@@ -25,6 +25,9 @@ Some of my daily drivers & favorites.
 - [RegExRX](https://apps.apple.com/us/app/regexrx/id498370702?mt=12)
 - [Warp](https://www.warp.dev/)
 - [Alfred](https://www.alfredapp.com/)
+- [Proxyman](https://proxyman.io/)
+- [Sim Genie](https://simgenie.app/)
+- [Arc](https://arc.net/)
 
 ## 💬 Talks 💬
 
