@@ -1,7 +1,7 @@
 [![Twitter: @bjtitus](https://img.shields.io/twitter/follow/bjtitus?style=social)](https://twitter.com/bjtitus)
-[![Linkedin: Brandon Titus](https://img.shields.io/badge/-Brandon%20Titus-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bjtitus/)
-[![Stack Overflow: bjtitus](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/72319/bjtitus)](https://stackoverflow.com/users/72319/bjtitus)
-![Mastodon: bjtitus@mastodon.social](https://img.shields.io/mastodon/follow/000196573?domain=https%3A%2F%2Fmastodon.social&style=social)
+&nbsp;[![Linkedin: Brandon Titus](https://img.shields.io/badge/-Brandon%20Titus-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bjtitus/)
+&nbsp;[![Stack Overflow: bjtitus](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/72319/bjtitus)](https://stackoverflow.com/users/72319/bjtitus)
+&nbsp;![Mastodon: bjtitus@mastodon.social](https://img.shields.io/mastodon/follow/000196573?domain=https%3A%2F%2Fmastodon.social&style=social)
 
 I'm a mobile developer working on projects at [Automattic](https://automattic.com) and living in Denver, CO.
 
